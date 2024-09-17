@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -8,6 +8,7 @@
 KOR EU WEI
 - [Keannu Angelo Ramos](https://github.com/KeanCodex)
 - [Joel Gutlay](https://github.com/Livsn06)
+- [Benz Aaron Medrano](https://github.com/Luckyyy28)
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
@@ -85,6 +86,7 @@ KOR EU WEI
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
+- [Dessamine Almuete](https://github.com/dalmuete)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
@@ -117,6 +119,7 @@ Mac McHam
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - psuuc-mvgo
+-egulbinado
 -psuuc-acbascos
 -psuuc-jbgarcia
 -psuuc-cvdrazo
@@ -125,6 +128,7 @@ Mac McHam
 - psuuc-nbcamatayan
 -psuuc-manaois
 -psuuc-fernandez
+-psuuc-jcsbayan
 - [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
